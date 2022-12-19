@@ -8,3 +8,5 @@
 sirin-interact/sirin-interact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![wakatime](https://wakatime.com/badge/user/35f3927e-70dc-445c-ac49-15bd984fb727.svg)](https://wakatime.com/@8cda7df5-3ef3-4a56-bd2a-8e227d8cb0cc)
